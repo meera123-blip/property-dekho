@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "location": "Mumbai",
+    "property_name": "Downtown Apartment",
+    "number_of_rooms": 2,
+    "number_of_beds": 1,
+    "number_of_bathrooms": 1,
+    "dimensions": "800 sqft",
+    "rent_per_month": 1500,
+    "img": "https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/Stock-Modern-House-In-Twilight-AdobeStock-368976934-copy.jpg"
+  },
+  {
+    "id": 2,
+    "location": "New York",
+    "property_name": "Suburban House",
+    "number_of_rooms": 4,
+    "number_of_beds": 3,
+    "number_of_bathrooms": 2.5,
+    "dimensions": "2200 sqft",
+    "rent_per_month": 2500,
+    "img": "https://i0.wp.com/lawpadi.com/wp-content/uploads/2018/05/render-1477041_640.jpg?fit=640%2C360&ssl=1"
+  },
+  {
+    "id": 3,
+    "location": "Paris",
+    "property_name": "Luxury Penthouse",
+    "number_of_rooms": 3,
+    "number_of_beds": 2,
+    "number_of_bathrooms": 3,
+    "dimensions": "3000 sqft",
+    "rent_per_month": 5000,
+    "img": "https://www.loans.com.au/dA/9de8aa8d51/what-factors-affect-property-value.png"
+  },
+  {
+    "id": 4,
+    "location": "Mumbai",
+    "property_name": "Beachfront Villa",
+    "number_of_rooms": 5,
+    "number_of_beds": 4,
+    "number_of_bathrooms": 5,
+    "dimensions": "4000 sqft",
+    "rent_per_month": 7000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYUqcIqa3pFa4xSNBeMIRnafKlskknciazlQtprBdfLAuF5IUmc1cAXeYs7C_URMD-PZ8&usqp=CAU"
+  },
+  {
+    "id": 5,
+    "location": "New York",
+    "property_name": "Cozy Studio",
+    "number_of_rooms": 1,
+    "number_of_beds": 1,
+    "number_of_bathrooms": 1,
+    "dimensions": "500 sqft",
+    "rent_per_month": 900,
+    "img": "https://img.squareyards.com/secondaryPortal/638291646906145966-0109231131303130.jpg"
+  },
+  {
+    "id": 6,
+    "location": "Paris",
+    "property_name": "Mountain Cabin",
+    "number_of_rooms": 3,
+    "number_of_beds": 2,
+    "number_of_bathrooms": 2,
+    "dimensions": "1500 sqft",
+    "rent_per_month": 1800,
+    "img": "https://i0.wp.com/lawpadi.com/wp-content/uploads/2018/05/render-1477041_640.jpg?fit=640%2C360&ssl=1"
+  },
+  {
+    "id": 7,
+    "location": "Mumbai",
+    "property_name": "City View Condo",
+    "number_of_rooms": 2,
+    "number_of_beds": 1,
+    "number_of_bathrooms": 1.5,
+    "dimensions": "1200 sqft",
+    "rent_per_month": 2000,
+    "img": "https://3.imimg.com/data3/PR/HL/GLADMIN-17802089/upload-1436003380optimized-p1000142-500x500.jpg"
+  },
+  {
+    "id": 8,
+    "location": "New York",
+    "property_name": "Rural Farmhouse",
+    "number_of_rooms": 6,
+    "number_of_beds": 4,
+    "number_of_bathrooms": 3,
+    "dimensions": "2500 sqft",
+    "rent_per_month": 2800,
+    "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvcGVydHl8ZW58MHx8MHx8fDA%3D&w=1000&q=80"
+  },
+  {
+    "id": 9,
+    "location": "Paris",
+    "property_name": "Lakefront Cottage",
+    "number_of_rooms": 2,
+    "number_of_beds": 1,
+    "number_of_bathrooms": 1,
+    "dimensions": "900 sqft",
+    "rent_per_month": 1200,
+    "img": "https://i0.wp.com/lawpadi.com/wp-content/uploads/2018/05/render-1477041_640.jpg?fit=640%2C360&ssl=1"
+  },
+  {
+    "id": 10,
+    "location": "Mumbai",
+    "property_name": "Urban Loft",
+    "number_of_rooms": 2,
+    "number_of_beds": 1,
+    "number_of_bathrooms": 1,
+    "dimensions": "1000 sqft",
+    "rent_per_month": 1600,
+    "img": "https://sbnri.com/blog/wp-content/uploads/2021/07/NRI-Property-In-India.jpg"
+  },
+  {
+    "id": 11,
+    "location": "New York",
+    "property_name": "Garden House",
+    "number_of_rooms": 4,
+    "number_of_beds": 3,
+    "number_of_bathrooms": 2,
+    "dimensions": "1800 sqft",
+    "rent_per_month": 2200,
+    "img": "https://www.estateagenttoday.co.uk/upload/BoxBrownie-MainImage-400x310.jpg"
+  },
+  {
+    "id": 13,
+    "location": "New York",
+    "property_name": "Countryside Resort",
+    "number_of_rooms": 3,
+    "number_of_beds": 2,
+    "number_of_bathrooms": 2,
+    "dimensions": "2000 sqft",
+    "rent_per_month": 1900,
+    "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-441503,resizemode-75,msid-103134499/wealth/real-estate/this-indian-city-to-see-the-highest-rise-in-prime-residential-property-prices-in-the-world-next-year-report.jpg"
+    },
+    {
+      "id": 13,
+      "location": "Paris",
+      "property_name": "Countryside Retreat",
+      "number_of_rooms": 3,
+      "number_of_beds": 2,
+      "number_of_bathrooms": 2,
+      "dimensions": "2000 sqft",
+      "rent_per_month": 1900,
+      "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-441503,resizemode-75,msid-103134499/wealth/real-estate/this-indian-city-to-see-the-highest-rise-in-prime-residential-property-prices-in-the-world-next-year-report.jpg"
+      },
+      {
+        "id": 14,
+        "location": "Paris",
+        "property_name": "IIfel view resort",
+        "number_of_rooms": 3,
+        "number_of_beds": 2,
+        "number_of_bathrooms": 2,
+        "dimensions": "2000 sqft",
+        "rent_per_month": 1900,
+        "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-441503,resizemode-75,msid-103134499/wealth/real-estate/this-indian-city-to-see-the-highest-rise-in-prime-residential-property-prices-in-the-world-next-year-report.jpg"
+        },
+        {
+          "id": 15,
+          "location": "Mumbai",
+          "property_name": "Hotel Taj",
+          "number_of_rooms": 3,
+          "number_of_beds": 2,
+          "number_of_bathrooms": 2,
+          "dimensions": "2000 sqft",
+          "rent_per_month": 1900,
+          "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-441503,resizemode-75,msid-103134499/wealth/real-estate/this-indian-city-to-see-the-highest-rise-in-prime-residential-property-prices-in-the-world-next-year-report.jpg"
+          }, 
+           {
+            "id": 16,
+            "location": "New York",
+            "property_name": "Mehfil hotel",
+            "number_of_rooms": 3,
+            "number_of_beds": 2,
+            "number_of_bathrooms": 2,
+            "dimensions": "2000 sqft",
+            "rent_per_month": 1900,
+            "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-441503,resizemode-75,msid-103134499/wealth/real-estate/this-indian-city-to-see-the-highest-rise-in-prime-residential-property-prices-in-the-world-next-year-report.jpg"
+            },
+            {
+              "id": 17,
+              "location": "New York",
+              "property_name": "Hotel DownTown",
+              "number_of_rooms": 3,
+              "number_of_beds": 2,
+              "number_of_bathrooms": 2,
+              "dimensions": "2000 sqft",
+              "rent_per_month": 1900,
+              "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-441503,resizemode-75,msid-103134499/wealth/real-estate/this-indian-city-to-see-the-highest-rise-in-prime-residential-property-prices-in-the-world-next-year-report.jpg"
+              },
+              {
+                "id": 18,
+                "location": "Hotel megha",
+                "property_name": "Mehfil hotel",
+                "number_of_rooms": 3,
+                "number_of_beds": 2,
+                "number_of_bathrooms": 2,
+                "dimensions": "2000 sqft",
+                "rent_per_month": 1900,
+                "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-441503,resizemode-75,msid-103134499/wealth/real-estate/this-indian-city-to-see-the-highest-rise-in-prime-residential-property-prices-in-the-world-next-year-report.jpg"
+                },
+                {
+                  "id": 19,
+                  "location": "New York",
+                  "property_name": "Muft hotel",
+                  "number_of_rooms": 3,
+                  "number_of_beds": 2,
+                  "number_of_bathrooms": 2,
+                  "dimensions": "2000 sqft",
+                  "rent_per_month": 1900,
+                  "img": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-441503,resizemode-75,msid-103134499/wealth/real-estate/this-indian-city-to-see-the-highest-rise-in-prime-residential-property-prices-in-the-world-next-year-report.jpg"
+                  }
+  ]
+  
